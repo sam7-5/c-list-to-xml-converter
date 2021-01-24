@@ -1,0 +1,7 @@
+C:\Users\shmouel\source\repos\xmlConver\xmlConver\bin\Debug\xmlConver.exe.config
+C:\Users\shmouel\source\repos\xmlConver\xmlConver\bin\Debug\xmlConver.exe
+C:\Users\shmouel\source\repos\xmlConver\xmlConver\bin\Debug\xmlConver.pdb
+C:\Users\shmouel\source\repos\xmlConver\xmlConver\obj\Debug\xmlConver.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\source\repos\xmlConver\xmlConver\obj\Debug\xmlConver.exe
+C:\Users\shmouel\source\repos\xmlConver\xmlConver\obj\Debug\xmlConver.pdb
+C:\Users\shmouel\source\repos\xmlConver\xmlConver\obj\Debug\xmlConver.csprojAssemblyReference.cache
